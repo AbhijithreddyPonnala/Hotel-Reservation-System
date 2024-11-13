@@ -28,7 +28,7 @@ This is a simple hotel reservation system implemented in Java. It allows users t
 1. Clone the repository or download the source code.
 
 	sh
-git clone https://github.com/AbhinavErukulla/HotelReservationSystem.git
+git clone https://github.com/AbhijithreddyPonnala/HotelReservationSystem.git
 
 Navigate to the dictionary
 
